@@ -1,1 +1,1 @@
-This personal repo used the templete from [**Yutao Zhu**](link:https://github.com/DaoD/daod.github.io).
+This personal repo used the templete from [**Yutao Zhu**](https://github.com/DaoD/daod.github.io).
